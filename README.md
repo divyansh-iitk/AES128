@@ -42,6 +42,12 @@ This project uses only Python’s standard libraries—no external packages requ
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📚 References
 
 - Cryptography and Network Security: Principles and Practices, 6th Edition- W. Stallings
